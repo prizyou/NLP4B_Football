@@ -5,7 +5,7 @@
   <img src="https://github.com/prizyou/NLP4B_Football/raw/main/Stock_Title_Picture.jpeg" alt="ProjectStockPic">
 </p>
 <p align="center">
-    <em>Unlocking Football Insights, One Word at a Time!</em>
+    <em>Unlocking Football Insights! </em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python">
