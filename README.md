@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">NLP4B_FOOTBALL</h1>
+    <h1 align="center">Seminar Project: NLP Model for detecting offensive language in Football Comments</h1>
 </p>
 <p align="center">
   <img src="https://github.com/prizyou/NLP4B_Football/raw/main/Stock_Title_Picture.jpeg" alt="ProjectStockPic">
