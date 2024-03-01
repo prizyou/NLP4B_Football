@@ -341,9 +341,3 @@ pytest notebook_test.py
 ##  License
 
 This project is protected under the MIT License. For more details, refer to the [LICENSE](https://github.com/prizyou/NLP4B_Football/blob/main/LICENSE) file.
-
----
-
-[**Return**](#-quick-links)
-
----
