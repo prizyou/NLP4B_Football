@@ -39,7 +39,7 @@
 
 ##  Overview
 
-NLP4B_Football is a Natural Language Processing project focused on football data, leveraging functionalities like data cleaning, normalization, and analysis powered by BERT and a custom model. It tokenizes emojis into text, enhancing readability, and uses machine learning models for insightful prediction, making football data more accessible and analyzable.
+NLP4B_Football is a Natural Language Processing project focused on football data, leveraging functionalities like data cleaning, normalization, and analysis powered by BERT and an Ordinary Logistics Regression Model. It tokenizes emojis into text, enhancing readability, and uses machine learning models for insightful prediction, making football data more accessible and analyzable.
 
 ---
 
