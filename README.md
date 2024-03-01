@@ -75,15 +75,13 @@ NLP4B_Football is a Natural Language Processing project focused on football data
 
 |    |   Feature         | Description |
 |----|-------------------|---------------------------------------------------------------|
-| ⚙️  | **Architecture**  | This project mainly revolves around NLP tasks using a BERT model and a custom model, with distinct sections for data cleaning, normalization, and making predictions.|
-| 🔩 | **Code Quality**  | The code appears to be modular and organized in different directories based on functionality, but there might be improvement areas in naming conventions and comments.|
-| 📄 | **Documentation** | While specific details are mentioned in the file descriptors, detailed inline code explanations or a comprehensive README file are missing.|
-| 🔌 | **Integrations**  | This project pulls data from different sources like Reddit and YouTube for cleaning and processing.|
-| 🧩 | **Modularity**    | Code appears to be structured in different modules based on functionality (Data cleaning, model creation, prediction).|
-| 🧪 | **Testing**       | No testing frameworks evident from the provided data. The project might benefit from unit or functionality tests.|
-| ⚡️  | **Performance**   | Without metrics it's hard to assess, but usage of normalization and a pre-trained BERT model suggest optimized processing.|
-| 🛡️ | **Security**      | Security aspects not visible in the provided detail. Data handling procedures should be assessed.|
-| 📦 | **Dependencies**  | Major dependencies include Python, Jupyter Notebooks, and likely various NLP Python libraries for BERT and custom models.|
+| ⚙️  | **Architecture** | This project mainly revolves around NLP tasks using a BERT model and a custom model, with distinct sections for data cleaning, normalization, and making predictions.|
+| 🔩 | **Code Quality**  | The code is modular and organized in different directories based on functionality.|
+| 📄 | **Documentation** | This README provides an overview of the Project Flow, as well as the [PROJECT REPORT](https://github.com/prizyou/NLP4B_Football/blob/main/Project%20Report.pdf).|
+| 🔌 | **Integrations**  | This project pulls data from different sources like Reddit and YouTube.|
+| 🧩 | **Modularity**    | Code is structured in different modules based on functionality (Data cleaning, model creation, prediction etc.).|
+| ⚡️  | **Performance**  | Both Models perform well with Scores at minimum over 80, up to 96 in all common metrices (Accuracy, Recall, ...).|
+| 📦 | **Dependencies**  | Major dependencies include Python, Jupyter Notebooks, and various NLP Python libraries for BERT and the custom model.|
 
 
 ---
