@@ -31,9 +31,7 @@
 >   - [ Running NLP4B_Football](#-running-NLP4B_Football)
 >   - [ Tests](#-tests)
 > - [ Project Roadmap](#-project-roadmap)
-> - [ Contributing](#-contributing)
 > - [ License](#-license)
-> - [ Acknowledgments](#-acknowledgments)
 
 ---
 
