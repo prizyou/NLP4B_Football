@@ -22,16 +22,16 @@
 
 ##  Quick Links
 
-> - [ Overview](#-overview)
-> - [ Features](#-features)
-> - [ Repository Structure](#-repository-structure)
-> - [ Modules](#-modules)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
->   - [ Running NLP4B_Football](#-running-NLP4B_Football)
->   - [ Tests](#-tests)
-> - [ Project Roadmap](#-project-roadmap)
-> - [ License](#-license)
+> - [Overview](#overview)
+> - [Features](#features)
+> - [Repository Structure](#repository-structure)
+> - [Modules](#modules)
+> - [Getting Started](#getting-started)
+>   - [Installation](#installation)
+>   - [Running NLP4B_Football](#running-nlp4b_football)
+>   - [Tests](#tests)
+> - [Project Roadmap](#project-roadmap)
+> - [License](#license)
 
 ---
 
