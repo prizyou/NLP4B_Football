@@ -8,10 +8,8 @@
     <em>Unlocking Football Insights, One Word at a Time!</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/prizyou/NLP4B_Football?style=flat&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/prizyou/NLP4B_Football?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/prizyou/NLP4B_Football?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/prizyou/NLP4B_Football?style=flat&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python">
+	<img src="https://img.shields.io/badge/License-MIT-orange" alt="License">
 <p>
 <p align="center">
 		<em>Developed with the software and tools below.</em>
