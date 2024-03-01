@@ -26,10 +26,6 @@
 > - [Project Roadmap](#project-roadmap)
 > - [Features](#features)
 > - [Repository Structure](#repository-structure)
-> - [Getting Started](#getting-started)
->   - [Installation](#installation)
->   - [Running NLP4B_Football](#running-nlp4b_football)
->   - [Tests](#tests)
 > - [License](#license)
 
 ---
@@ -190,54 +186,6 @@ NLP4B_Football is a Natural Language Processing project focused on football data
             ├── yt_comments.csv
             └── yt_comments_new.csv
 ```
-
----
-
-##  Getting Started
-
-***Requirements***
-
-Ensure you have the following dependencies installed on your system:
-
-* **JupyterNotebook**: `version x.y.z`
-
-###  Installation
-
-1. Clone the NLP4B_Football repository:
-
-```sh
-git clone https://github.com/prizyou/NLP4B_Football
-```
-
-2. Change to the project directory:
-
-```sh
-cd NLP4B_Football
-```
-
-3. Install the dependencies:
-
-```sh
-pip install -r requirements.txt
-```
-
-###  Running NLP4B_Football
-
-Use the following command to run NLP4B_Football:
-
-```sh
-jupyter nbconvert --execute notebook.ipynb
-```
-
-###  Tests
-
-To execute tests, run:
-
-```sh
-pytest notebook_test.py
-```
-
----
 
 ##  License
 
