@@ -23,14 +23,13 @@
 ##  Quick Links
 
 > - [Overview](#overview)
+> - [Project Roadmap](#project-roadmap)
 > - [Features](#features)
 > - [Repository Structure](#repository-structure)
-> - [Modules](#modules)
 > - [Getting Started](#getting-started)
 >   - [Installation](#installation)
 >   - [Running NLP4B_Football](#running-nlp4b_football)
 >   - [Tests](#tests)
-> - [Project Roadmap](#project-roadmap)
 > - [License](#license)
 
 ---
@@ -38,6 +37,37 @@
 ##  Overview
 
 NLP4B_Football is a Natural Language Processing project focused on football data, leveraging functionalities like data cleaning, normalization, and analysis powered by BERT and an Ordinary Logistics Regression Model. It tokenizes emojis into text, enhancing readability, and uses machine learning models for insightful prediction, making football data more accessible and analyzable.
+
+---
+
+##  Project Roadmap
+
+### Preperation Phase
+
+- [X] `► Find Data Sources`
+- [X] `► Install Anaconda`
+- [X] `► Join the Githup repository`
+- [X] `► Collect Ideas for the Project`
+
+### Main Phase
+
+- [X] `► Collect Data from Instagram / Reddit`
+- [X] `► Collect Data from Kaggle Datasaet and Clean Data`
+- [X] `► Think of how to merge the datasets`
+- [X] `► Clean and Label the Data`
+- [X] `► Research about BERT`
+- [X] `► Implement the BERT Model`
+- [X] `► Brainstorm a second Model and implement it`
+- [X] `► Study code, pose questions, refine algorithm`
+- [X] `► Finish BERT Transformation and generate Outpout`
+- [X] `► Perform model validation and conformance checking`
+- [X] `► Apply cross validation and overfitting check`
+- [X] `► Use the NLP Models on the Youtube Dataset to See weather League or International is more offensive`
+
+### Presentaion Phase
+
+- [X] `► Work on the Project Report parts`
+- [X] `► Prepare the Presentaion of the Project`
 
 ---
 
@@ -208,37 +238,6 @@ To execute tests, run:
 ```sh
 pytest notebook_test.py
 ```
-
----
-
-##  Project Roadmap
-
-### Preperation Phase
-
-- [X] `► Find Data Sources`
-- [X] `► Install Anaconda`
-- [X] `► Join the Githup repository`
-- [X] `► Collect Ideas for the Project`
-
-### Main Phase
-
-- [X] `► Collect Data from Instagram / Reddit`
-- [X] `► Collect Data from Kaggle Datasaet and Clean Data`
-- [X] `► Think of how to merge the datasets`
-- [X] `► Clean and Label the Data`
-- [X] `► Research about BERT`
-- [X] `► Implement the BERT Model`
-- [X] `► Brainstorm a second Model and implement it`
-- [X] `► Study code, pose questions, refine algorithm`
-- [X] `► Finish BERT Transformation and generate Outpout`
-- [X] `► Perform model validation and conformance checking`
-- [X] `► Apply cross validation and overfitting check`
-- [X] `► Use the NLP Models on the Youtube Dataset to See weather League or International is more offensive`
-
-### Presentaion Phase
-
-- [X] `► Work on the Project Report parts`
-- [X] `► Prepare the Presentaion of the Project`
 
 ---
 
