@@ -1,5 +1,5 @@
 <p align="center">
-  ![ProjectStockPic](https://github.com/prizyou/NLP4B_Football/blob/main/Stock_Title_Picture.jpeg)
+  <img src="https://github.com/prizyou/NLP4B_Football/raw/main/Stock_Title_Picture.jpeg" alt="ProjectStockPic">
 </p>
 <p align="center">
     <h1 align="center">NLP4B_FOOTBALL</h1>
