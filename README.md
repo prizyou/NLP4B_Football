@@ -309,9 +309,32 @@ pytest notebook_test.py
 
 ##  Project Roadmap
 
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+### Preperation Phase
+
+- [X] `► Find Data Sources`
+- [X] `► Install Anaconda`
+- [X] `► Join the Githup repository`
+- [X] `► Collect Ideas for the Project`
+
+### Main Phase
+
+- [X] `► Collect Data from Instagram / Reddit`
+- [X] `► Collect Data from Kaggle Datasaet and Clean Data`
+- [X] `► Think of how to merge the datasets`
+- [X] `► Clean and Label the Data`
+- [X] `► Research about BERT`
+- [X] `► Implement the Machine Learning Algorithm`
+- [X] `► Brainstorm a possible second Machine Learning Algorithm that we can use`
+- [X] `► Study code, pose questions, refine algorithm`
+- [X] `► Finish BERT Transformation and generate Outpout`
+- [X] `► Perform model validation and conformance checking`
+- [X] `► Apply cross validation and overfitting check`
+- [X] `► Use the NLP Models on the Youtube Dataset to See weather League or International is more offensive`
+
+### Presentaion Phase
+
+- [X] `► Work on the Project Report parts`
+- [X] `► Prepare the Presentaion of the Project`
 
 ---
 
