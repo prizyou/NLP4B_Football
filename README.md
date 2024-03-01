@@ -62,69 +62,100 @@ NLP4B_Football is a Natural Language Processing project focused on football data
 
 ```sh
 └── NLP4B_Football/
+    │
+    │
     ├── BERT_model
+    │   │
     │   ├── data_normalization.py
     │   ├── labeled_data.xlsx
     │   ├── labeled_normalized_data.csv
     │   └── model.ipynb
+    │
+    │
     ├── Own_model
+    │   │
     │   ├── model creation
     │   │   ├── complete_dataset.csv
     │   │   ├── logreg_model.pkl
-    │   │   ├── own_model _creation.ipynb
+    │   │   ├── own_model_creation.ipynb
     │   │   ├── pred_youtube_cleaned_for_label.xlsx
     │   │   ├── vectorizer.pkl
     │   │   └── youtube_cleaned_for_label_NEW.xlsx
+    │   │
     │   └── model_prediction
     │       ├── logreg_model.pkl
     │       ├── own_model_prediction.ipynb
     │       └── vectorizer.pkl
+    │
+    │
     ├── README.md
+    ├── LICENSE
+    ├── Stock_Title_Picture.jpeg
+    │
+    │
     ├── data_cleaning
+    │   │
     │   ├── clean_not_labeled_data
     │   │   ├── convert.ipynb
     │   │   ├── reddit_clean_not_labeled.csv
     │   │   ├── reddit_clean_not_labeled.xlsx
     │   │   ├── reddit_cleaned_for_label.xlsx
     │   │   └── reddit_cleaning.py
+    │   │
     │   ├── kaggle
     │   │   ├── Kaggle_clean_and_labeled.xlsx
     │   │   ├── convert.py
     │   │   ├── kaggle_clean_and_labeled.csv
     │   │   └── kaggle_cleaning.py
+    │   │
     │   ├── reddit
     │   │   ├── reddit_cleaned_for_label_NEW.xlsx
     │   │   └── reddit_cleaning.ipynb
+    │   │
     │   └── youtube
     │       ├── youtube_cleaned_for_label.xlsx
     │       ├── youtube_cleaned_for_label_NEW.xlsx
     │       └── yt_cleaning.ipynb
+    │
+    │
     ├── main
     │   └── main.ipynb
+    │
+    │
+    ├── data_analysis
+    │   ├── complete_dataset.csv
+    │   ├── complete_dataset.xlsx
+    │   └── dataset_analysis.ipynb
+    │
+    │
     └── web_scraping
+        │
         ├── NOT_USED
+        │   │
         │   ├── facebook_OUT
         │   │   ├── __pycache__
         │   │   │   └── secrets.cpython-310.pyc
         │   │   ├── facebook_scrape.ipynb
         │   │   ├── new_facebook_scraper.ipynb
         │   │   └── secrets.py
+        │   │
         │   ├── instagram_OUT
         │   │   └── insta_scrape.py
+        │   │
         │   └── reddit_OUT
         │       ├── r_football_Paul.csv
         │       ├── redditScrape_Ali.ipynb
         │       └── reddit_api_Paul.ipynb
-        ├── data_analysis
-        │   ├── complete_dataset.csv
-        │   ├── complete_dataset.xlsx
-        │   └── dataset_analysis.ipynb
+        │
+        │
         ├── reddit
         │   ├── Reddit_IDs.txt
         │   ├── pw.txt
         │   ├── redditComments_Ali.csv
         │   ├── redditComments_NEW.csv
         │   └── scraping.ipynb
+        │
+	│
         └── youtube
             ├── dataScrapeFromYoutube.ipynb
             ├── videos_used.txt
