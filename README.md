@@ -12,7 +12,7 @@
 	<img src="https://img.shields.io/badge/License-MIT-orange" alt="License">
 <p>
 <p align="center">
-		<em>Developed with the software and tools below.</em>
+		<em>Developed with the Software / Tools below.</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
